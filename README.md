@@ -1,6 +1,10 @@
 
 
-![Jackson Calgaro Giordani](https://img.shields.io/badge/Jackson%20Calgaro%20Giordani-Desenvolvedor%20Java%20%26%20Web-7C3AED?style=for-the-badge)
+<div align="center">
+
+![Jackson Calgaro Giordani](https://img.shields.io/badge/Jackson%20Calgaro%20Giordani-Desenvolvedor%20de%20Software%20%7C%20Java%20%26%20Web-7C3AED?style=for-the-badge)
+
+</div>
 
 ### 👋 Sobre mim
 
