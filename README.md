@@ -1,7 +1,6 @@
-<div align="center">
-  <!-- Banner superior dinâmico em tons de roxo -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7C3AED&height=180&section=header&text=Jackson%20Calgaro%20Giordani&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20de%20Software%20%7C%20Java%20%26%20Web&descAlignY=58&descSize=16" width="100%" />
-</div>
+
+
+![Jackson Calgaro Giordani](https://img.shields.io/badge/Jackson%20Calgaro%20Giordani-Desenvolvedor%20Java%20%26%20Web-7C3AED?style=for-the-badge)
 
 ### 👋 Sobre mim
 
